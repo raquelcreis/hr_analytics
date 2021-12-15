@@ -1,2 +1,3 @@
 # HR Analytics
-Data Science Studies about HR Analytics
+Prediction model for employees promotion
+
